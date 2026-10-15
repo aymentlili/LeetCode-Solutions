@@ -8,15 +8,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/aymentlili/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/aymentlili/LeetCode-Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/aymentlili/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/aymentlili/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Greedy
 |  |
 | ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/aymentlili/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/aymentlili/LeetCode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/aymentlili/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sorting
 |  |
 | ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/aymentlili/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/aymentlili/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Math
 |  |
@@ -38,4 +41,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/aymentlili/LeetCode-Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
+## Binary Search
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/aymentlili/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/aymentlili/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
