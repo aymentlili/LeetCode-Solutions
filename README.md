@@ -15,4 +15,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/aymentlili/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/aymentlili/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
