@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aymentlili/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/aymentlili/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/aymentlili/LeetCode-Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/aymentlili/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/aymentlili/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/aymentlili/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/aymentlili/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [0041-first-missing-positive](https://github.com/aymentlili/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 ## String
 |  |
 | ------- |
