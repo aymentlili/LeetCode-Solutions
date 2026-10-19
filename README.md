@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/aymentlili/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/aymentlili/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
+| [1331-rank-transform-of-an-array](https://github.com/aymentlili/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aymentlili/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/aymentlili/LeetCode-Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/aymentlili/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [1331-rank-transform-of-an-array](https://github.com/aymentlili/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/aymentlili/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/aymentlili/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/aymentlili/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/aymentlili/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/aymentlili/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/aymentlili/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
+| [1331-rank-transform-of-an-array](https://github.com/aymentlili/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/aymentlili/LeetCode-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aymentlili/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/aymentlili/LeetCode-Solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
