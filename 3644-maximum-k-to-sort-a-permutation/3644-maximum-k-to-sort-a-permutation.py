@@ -4,8 +4,6 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        n = len(nums)
-        L = []
         L = [x for i, x in enumerate(nums) if x != i ]
         if not L :
             return 0      
