@@ -10,6 +10,4 @@ class Solution(object):
         k = L[0]
         for x in L[1:] :
             k &= x
-            if k == 0 :
-                return 0
         return k
