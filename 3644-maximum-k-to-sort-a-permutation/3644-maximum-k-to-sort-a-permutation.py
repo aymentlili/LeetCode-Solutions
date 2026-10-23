@@ -5,9 +5,7 @@ class Solution(object):
         :rtype: int
         """
         L = [x for i, x in enumerate(nums) if x != i ]
-        if not L :
-            return 0      
-        k = L[0]
-        for x in L[1:] :
+        k = -1
+        for x in L :
             k &= x
-        return k
+        return k if k != -1 else 0
