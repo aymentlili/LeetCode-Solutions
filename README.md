@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0013-roman-to-integer](https://github.com/aymentlili/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aymentlili/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/aymentlili/LeetCode-Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [2409-count-days-spent-together](https://github.com/aymentlili/LeetCode-Solutions/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/aymentlili/LeetCode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3886-sum-of-sortable-integers](https://github.com/aymentlili/LeetCode-Solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Hash Table
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0013-roman-to-integer](https://github.com/aymentlili/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/aymentlili/LeetCode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2409-count-days-spent-together](https://github.com/aymentlili/LeetCode-Solutions/tree/master/2409-count-days-spent-together) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/aymentlili/LeetCode-Solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Prefix Sum
 |  |
