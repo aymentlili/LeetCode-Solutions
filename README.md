@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/aymentlili/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/aymentlili/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
+| [1254-number-of-closed-islands](https://github.com/aymentlili/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1331-rank-transform-of-an-array](https://github.com/aymentlili/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aymentlili/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/aymentlili/LeetCode-Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/aymentlili/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aymentlili/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
@@ -144,4 +146,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aymentlili/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/aymentlili/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/aymentlili/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
+## Matrix
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/aymentlili/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
