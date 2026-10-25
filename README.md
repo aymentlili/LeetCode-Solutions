@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aymentlili/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/aymentlili/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0041-first-missing-positive](https://github.com/aymentlili/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [1254-number-of-closed-islands](https://github.com/aymentlili/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1331-rank-transform-of-an-array](https://github.com/aymentlili/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/aymentlili/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/aymentlili/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/aymentlili/LeetCode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2409-count-days-spent-together](https://github.com/aymentlili/LeetCode-Solutions/tree/master/2409-count-days-spent-together) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/aymentlili/LeetCode-Solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -158,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/aymentlili/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/aymentlili/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
