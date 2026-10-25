@@ -6,7 +6,5 @@ class Solution(object):
         for s in strs :
             while x != s[0:n] :
                 n -= 1
-                if n == 0 :
-                    return ""
                 x = x[0:n]
         return x
