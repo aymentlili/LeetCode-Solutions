@@ -1,5 +1,5 @@
 class Solution(object):
-    def minMoves(self, nums):
-        return sum(nums) - len(nums) * min(nums)
+    def minMoves(self, L):
+        return sum(L) - len(L) * min(L)
 
 
